@@ -94,14 +94,5 @@
   <img src="https://streak-stats.demolab.com?user=PawanKhamdak&theme=tokyonight" alt="streak" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PawanKhamdak&theme=tokyonight&margin-w=10"/>
-</p>
-
----
 
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
