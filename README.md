@@ -15,7 +15,7 @@
 
 💡 Interested in **Software Engineering, Web Applications, and Open Source**
 
-🎯 Goal: Become a Professional Full-Stack Developer
+🎯 Goal: Become a Professional Full-Stack Developer and passoniate about AI and data science
 
 ⚡ Fun Fact: I enjoy turning ideas into real-world applications.
 
@@ -24,11 +24,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pawan-khamdak-81627935a/?skipRedirect=true" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:pawankhamdak@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
