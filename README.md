@@ -31,6 +31,10 @@
 <a href="mailto:pawankhamdak@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://your-portfolio-url.com" target="blank">
+<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white"/>
+</a>
 </p>
 
 ---
