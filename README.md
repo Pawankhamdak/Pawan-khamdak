@@ -35,6 +35,10 @@
 <a href="https://your-portfolio-url.com" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=briefcase&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Pawankhamdak" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
