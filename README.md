@@ -2,7 +2,7 @@
 <h3 align="center">🎓 B.Sc. CSIT Student | 💻 Web Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PawanKhamdak&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -85,15 +85,15 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PawanKhamdak&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanKhamdak&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=PawanKhamdak&theme=tokyonight" alt="streak" />
 </p>
 
 ---
@@ -101,7 +101,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PawanKhamdak&theme=tokyonight&margin-w=10"/>
 </p>
 
 ---
