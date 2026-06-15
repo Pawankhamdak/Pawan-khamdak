@@ -83,9 +83,9 @@
 
 ## 🚀 Featured Projects
 
-📌 **Job Portal System**
-📌 **Sawari Ride Sharing System**
-📌 **E-Commerce Website**
+📌 **Task manager app**
+📌 **clone project**
+
 
 ---
 
