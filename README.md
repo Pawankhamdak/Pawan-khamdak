@@ -1,63 +1,109 @@
-# Hi 👋, I'm Pawan Khamdak
+<h1 align="center">Hi 👋, I'm Pawan Khamdak</h1>
+<h3 align="center">🎓 B.Sc. CSIT Student | 💻 Web Developer | 🚀 Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+---
 
 ## 💫 About Me
-🎓 B.Sc. CSIT Student
 
-💻 Web Developer
+🔭 Currently working on **Web Development Projects**
 
-🚀 Passionate about Web Development and Software Engineering
+🌱 Learning **React, Node.js, Express.js, and Full Stack Development**
 
-🌱 Currently learning React and Full Stack Development
+💡 Interested in **Software Engineering, Web Applications, and Open Source**
 
-## 🌐 Socials
+🎯 Goal: Become a Professional Full-Stack Developer
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Email: your-email@example.com
-- Portfolio: https://yourwebsite.com
+⚡ Fun Fact: I enjoy turning ideas into real-world applications.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://yourwebsite.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+</p>
+
+---
 
 ## 💻 Tech Stack
 
-### Languages
-- Java
-- JavaScript
-- PHP
-- SQL
+### 🚀 Languages
 
-### Frontend
-- HTML
-- CSS
-- Bootstrap
-- React
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### Backend
-- Node.js
-- Express.js
+### 🎨 Frontend
 
-### Database
-- MySQL
-- MongoDB
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+### ⚙️ Backend
 
-## 🚀 Projects
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
-- Job Portal System
-- Sawari Ride Sharing System
-- E-Commerce Website
+### 🗄️ Database
 
-## 📊 GitHub Stats
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanKhamdak&show_icons=true)
+### 🛠️ Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanKhamdak&layout=compact)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=PawanKhamdak)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
-⭐ Thanks for visiting my profile!# Pawan-khamdak
+
+## 🚀 Featured Projects
+
+📌 **Job Portal System**
+📌 **Sawari Ride Sharing System**
+📌 **E-Commerce Website**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10"/>
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
